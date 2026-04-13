@@ -6,7 +6,7 @@ The project showcases a clean UI design, smooth hover effects, and a structured 
 ---
 
 ##  Live Demo
-👉 https://mariemmomdouh967-design.github.io/mariams-store/
+*View Project:* [BabyKids Store](https://mariemmomdouh967-design.github.io/mariams-store/)
 
 
 ---
