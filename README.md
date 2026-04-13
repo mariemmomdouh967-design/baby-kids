@@ -1,4 +1,4 @@
-# 👶 Baby Kids Store
+# 🧸 Baby Kids Store
 
 A modern and responsive e-commerce website for baby and kids clothing, built using **HTML5 & CSS3**.  
 The project showcases a clean UI design, smooth hover effects, and a structured layout for an online shopping experience.
@@ -6,7 +6,7 @@ The project showcases a clean UI design, smooth hover effects, and a structured 
 ---
 
 ##  Live Demo
-*View Project:* [BabyKids Store](file:///C:/Users/user/OneDrive/Desktop/lec1/index.html#)
+*View Project:* [BabyKids Store](https://mariemmomdouh967-design.github.io/baby-kids/)
 
 
 ---
