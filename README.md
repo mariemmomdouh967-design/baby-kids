@@ -1,24 +1,68 @@
-🧸 Baby Kids Store
+# 👶 Baby Kids Store
 
-Baby Kids Store is a modern and visually appealing e-commerce front-end website designed for kids’ fashion and essentials.
-It showcases products in a clean and user-friendly interface with an organized layout.
+A modern and responsive e-commerce website for baby and kids clothing, built using **HTML5 & CSS3**.  
+The project showcases a clean UI design, smooth hover effects, and a structured layout for an online shopping experience.
 
-Features  
-Attractive product cards with hover image effect.  
-Fixed header with navigation and dropdown menu.  
-Interactive account dropdown (pure CSS).  
-Smooth animations and transitions.  
-Video background section for modern UI.  
-Well-structured and readable code.  
-Hosted live using GitHub Pages.  
+---
 
-Live Demo  
-View Project: Baby Kids Store  
+##  Live Demo
+👉 https://mariemmomdouh967-design.github.io/mariams-store/
 
-Technologies Used  
-HTML5 – structure and layout  
-CSS3 – styling and animations  
 
-Contact  
-Developed by Mariam Mamdouh  
-Email 📧: mariemmomdouh967@gmail.com
+---
+
+##  Features
+
+-  Modern e-commerce UI design
+-  Fully responsive layout
+-  Fixed navigation header
+-  Dropdown menus (Baby Gear section)
+-  Interactive account dropdown (Register / Login)
+-  Hero section with call-to-action buttons
+-  Product categories section
+-  Product cards with hover image swap effect
+-  Full-screen background video section
+-  Promotional banners
+-  Testimonials section with hover animation
+-  Clean footer with multiple columns
+-  Smooth hover transitions and animations
+
+---
+
+##  Technologies Used
+
+- HTML5
+- CSS3
+- Google Fonts (Montserrat)
+- Basic UI animations using CSS transitions & transforms
+
+
+---
+
+##  UI Highlights
+
+- Sticky navigation bar
+- Image hover swapping in product cards
+- Dropdown menu using pure CSS
+- Overlay account menu using checkbox hack
+- Grid & flexbox layout system
+- Responsive-ready structure
+
+---
+
+##  Future Improvements
+
+- Add JavaScript for cart functionality 
+- Add product filtering & search   
+- Connect backend (Flask / Node.js)  
+- Add user authentication system  
+- Improve mobile responsiveness  
+
+---
+
+##  Developer
+
+Developed by **Mariam Mamdouh** 💖  
+```
+
+---
