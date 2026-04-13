@@ -63,6 +63,6 @@ The project showcases a clean UI design, smooth hover effects, and a structured 
 ##  Developer
 
 Developed by **Mariam Mamdouh** 💖  
-```
+*Email📧*: mariemmomdouh967@gmail.com
 
 ---
