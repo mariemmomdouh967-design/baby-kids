@@ -107,17 +107,17 @@ https://mariemmomdouh967-design.github.io/baby-kids/
 
  **Website Sections**
 
-1. Header
-2. Hero Banner
-3. Shop By Category
-4. Promotional Banner
-5. Trending Products
-6. Video Section
-7. You May Like Products
-8. Customer Testimonial
-9. Latest News
- 10. Features
- 11. Footer
+ 1. Header
+ 2. Hero Banner
+ 3. Shop By Category
+ 4. Promotional Banner
+ 5. Trending Products
+ 6. Video Section
+ 7. You May Like Products
+ 8. Customer Testimonial
+ 9. Latest News
+10. Features
+11. Footer
 
 ---
 
