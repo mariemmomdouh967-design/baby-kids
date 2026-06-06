@@ -1,4 +1,4 @@
-##🧸 Baby Kids Store
+## 🧸 Baby Kids Store
 
 A modern and responsive e-commerce website for baby and kids products, designed with a clean user interface and engaging user experience using HTML5 and CSS3.
 
@@ -6,16 +6,16 @@ The website includes product showcases, category browsing, promotional sections,
 
 ---
 
- **Live Demo**
+ ## Live Demo
 
 View Project:
 https://mariemmomdouh967-design.github.io/baby-kids/
 
 ---
 
- **Features**
+ ## Features
 
- Header & Navigation
+ **Header & Navigation**
 
 - Fixed top navigation bar
 - Social media links
@@ -82,7 +82,7 @@ https://mariemmomdouh967-design.github.io/baby-kids/
 
 ---
 
- **UI & Design Highlights**
+ ## UI & Design Highlights
 
 - Modern e-commerce inspired layout
 - Smooth hover animations
@@ -94,7 +94,7 @@ https://mariemmomdouh967-design.github.io/baby-kids/
 
 ---
 
- **Technologies Used**
+ ## Technologies Used
 
 - HTML5
 - CSS3
@@ -105,23 +105,23 @@ https://mariemmomdouh967-design.github.io/baby-kids/
 
 ---
 
- **Website Sections**
+ ## Website Sections
 
-1. Header
-2. Hero Banner
-3. Shop By Category
-4. Promotional Banner
-5. Trending Products
-6. Video Section
-7. You May Like Products
-8. Customer Testimonial
-9. Latest News
+ 1. Header
+ 2. Hero Banner
+ 3. Shop By Category
+ 4. Promotional Banner
+ 5. Trending Products
+ 6. Video Section
+ 7. You May Like Products
+ 8. Customer Testimonial
+ 9. Latest News
  10. Features
  11. Footer
 
 ---
 
- **Future Improvements**
+ ## Future Improvements
 
 - Add JavaScript product slider
 - Shopping cart functionality
@@ -135,7 +135,7 @@ https://mariemmomdouh967-design.github.io/baby-kids/
 
 ---
 
- **Developer**
+## *Developer
 
 Developed with ❤️ by Mariam Mamdouh
 
