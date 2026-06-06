@@ -1,4 +1,4 @@
-🧸 Baby Kids Store
+#🧸 Baby Kids Store
 
 A modern and responsive e-commerce website for baby and kids products, designed with a clean user interface and engaging user experience using HTML5 and CSS3.
 
@@ -6,7 +6,7 @@ The website includes product showcases, category browsing, promotional sections,
 
 ---
 
- Live Demo
+ ##Live Demo
 
 View Project:
 https://mariemmomdouh967-design.github.io/baby-kids/
