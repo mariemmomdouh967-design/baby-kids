@@ -116,8 +116,8 @@ https://mariemmomdouh967-design.github.io/baby-kids/
 7. You May Like Products
 8. Customer Testimonial
 9. Latest News
-10. Features
-11. Footer
+ 10. Features
+ 11. Footer
 
 ---
 
