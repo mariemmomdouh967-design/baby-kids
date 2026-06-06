@@ -23,19 +23,19 @@ https://mariemmomdouh967-design.github.io/baby-kids/
 - Multi-level navigation menu
 - Baby Gear dropdown menu
 
- Hero Section
+ **Hero Section**
 
 - Full-screen hero banner
 - Promotional text and call-to-action buttons
 - Modern typography and layout
 
- Shop By Category
+ **Shop By Category**
 
 - Category cards with hover effects
 - Smooth image zoom animation
 - Shop Now overlay interaction
 
- Trending Products
+ **Trending Products**
 
 - Product showcase cards
 - Dual-image hover effect
@@ -43,37 +43,37 @@ https://mariemmomdouh967-design.github.io/baby-kids/
 - Category filter tabs
 - Product navigation arrows
 
- Video Showcase
+ **Video Showcase**
 
 - Full-width autoplay background video
 - Modern visual presentation
 
- Customer Testimonial
+ **Customer Testimonial**
 
 - Customer review section
 - User profile display
 - Navigation arrows
 
- Latest News
+ **Latest News**
 
 - Blog-style cards
 - Image zoom hover effects
 - Interactive article titles
 - Read More links
 
- Features Section
+ **Features Section**
 
 - Fast Delivery
 - Secure Payment
 - Money Back Guarantee
 - Online Support
 
- Newsletter Subscription
+ **Newsletter Subscription**
 
 - Email subscription form
 - Social media links
 
- Footer
+ **Footer**
 
 - Brand information
 - Product categories
@@ -135,12 +135,12 @@ https://mariemmomdouh967-design.github.io/baby-kids/
 
 ---
 
-## *Developer
+## Developer
 
 Developed with ❤️ by Mariam Mamdouh
 
- Email: mariemmomdouh967@gmail.com
+ **Email**: mariemmomdouh967@gmail.com
 
- GitHub: https://github.com/mariemmomdouh967-design
+ **GitHub**: https://github.com/mariemmomdouh967-design
 
 ---
